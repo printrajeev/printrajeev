@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @printrajeev
+- 👋 Hi, I’m @printrajeev / Rajeev Tiwari
 - 👀 I’m interested in Innovation
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to work for Some Good Project
